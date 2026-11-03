@@ -1,1 +1,1 @@
-# Das Logbuch-Daten-System
+# Das Logbuch Daten System
