@@ -1,1 +1,1 @@
-# Das-Logbuch--Daten-System-Praxisnahe-bung-zum-Arbeiten-mit-
+# Das Logbuch-Daten-System
